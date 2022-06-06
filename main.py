@@ -4,6 +4,7 @@ import cvzone
 from cvzone.SelfiSegmentationModule import SelfiSegmentation
 import os
 
+
 #open webcam
 cap = cv2.VideoCapture(0)
 
