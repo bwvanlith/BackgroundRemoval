@@ -1,6 +1,6 @@
 # BackgroundRemoval
 
-Simple background removal on webcam feed.
+Simple background removal implementation based on OpenCV.
 
 
 
